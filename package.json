@@ -1,0 +1,35 @@
+{
+  "name": "jquery.hoverformenu",
+  "version": "1.0.0",
+  "description": "Simple jQuery plugin for easy navigation through drop-down menus.",
+  "main": "jquery.hoverForMenu.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baskerville42/hoverForMenu.git"
+  },
+  "keywords": [
+    "menu",
+    "dropdown",
+    "hover",
+    "jquery-plugin",
+    "drop-down",
+    "dropdown",
+    "menu",
+    "drop-down",
+    "menu",
+    "html5",
+    "menu",
+    "html5",
+    "drop-down",
+    "menu",
+    "html5",
+    "dropdown",
+    "menu"
+  ],
+  "author": "Alexander Tartmin <alexander@tartmin.name> (https://fb.com/alexander.tartmin)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Baskerville42/hoverForMenu/issues"
+  },
+  "homepage": "https://github.com/Baskerville42/hoverForMenu#readme"
+}
