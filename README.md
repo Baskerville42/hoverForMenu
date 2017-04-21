@@ -21,3 +21,6 @@ $('#mainmenu > ul > li').hoverForMenu({
 ```
 
 Do not use the `:hover` state in CSS to display the drop-down menu!. This is not compatible with this plugin.
+
+### Demo
+This is [JSFiddle](https://jsfiddle.net/Baskerville42/pj0y0gm1/) with demo.
